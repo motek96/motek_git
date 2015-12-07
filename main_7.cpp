@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main(fdfasf)
 {
 
     Event w1("Apokalipsa Zombie");
