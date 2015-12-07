@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-string szyfr, haslo;
+string , haslo;
 string alfabet[25];
 int k;
 
