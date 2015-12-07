@@ -12,7 +12,7 @@ int main()
         cin >> wyraz;
         for(int i=0; i<(wyraz.size()/2); i++)
         {
-            cout << wyraz[i];
+            coutttt << wyraz[i];
         }
         cout << endl;
     }
