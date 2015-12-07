@@ -12,7 +12,7 @@ int main()
         for(int k=0; k<j; k++)
         {
             cin >> tab[k];
-        }
+        }dasdasdas
         x = 0;
         for(int l=0; l<j; l++)
         {
