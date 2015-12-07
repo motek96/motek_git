@@ -11,7 +11,7 @@ int main()
         {
             x=p;
             y=w;
-        }
+        }dasdasd
         else
         {
             x=w;
