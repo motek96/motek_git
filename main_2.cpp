@@ -1,4 +1,4 @@
-#include <iostream>
+<iostream>
 using namespace std;
 int n, x, y, w, p, r, t;
 int main()
